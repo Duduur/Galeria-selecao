@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+
+}
+header{
+    text-align: center;
+    background-color:rgb(252, 214, 0);
+    color: black;
+    padding:10px;
+   
+}
+
+img{
+width:640px;
+height: 640px;
+border: 5px solid white;
+box-shadow: 2px 2px 1px 1px yellow
+}
+
+.galeria{
+    width: 100%;
+    max-width: 800px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.imagem1{
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+}
+.imagem2{
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+}
+footer{
+    text-align: center;
+}
+
+
